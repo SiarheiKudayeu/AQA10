@@ -3,7 +3,6 @@ package lesson2;
 import java.util.Random;
 
 public class MethodCreation {
-
     //Ничего не принимает и ничего не возвращает
     public static void soutSmthingInConsole(){
         System.out.println("Hello World");
@@ -24,9 +23,6 @@ public class MethodCreation {
         int sum = number1 + number2;
         return sum;
     }
-
-
-
 
     public static void main(String[] args) {
         soutSmthingInConsole();
