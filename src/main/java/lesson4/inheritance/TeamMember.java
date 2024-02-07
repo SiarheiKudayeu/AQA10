@@ -5,7 +5,7 @@ public class TeamMember {
     public int age;
     public String profession;
 
-    //public TeamMember(){}
+    public TeamMember(){}
 
     public int y = 22;
 
